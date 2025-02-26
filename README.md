@@ -1,2 +1,2 @@
-# Multilingual_Semantic_Search
-Experience to Embedding with cohere
+Multilingual Semantic Search with Cohere & Qdrant
+This project implements a Retrieval-Augmented Generation (RAG) system using Cohere embeddings and Qdrant vector database for efficient semantic search. It provides a FastAPI backend and a Streamlit UI for interaction.
