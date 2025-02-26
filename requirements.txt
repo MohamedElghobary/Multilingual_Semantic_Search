@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+cohere
+qdrant-client
+rank-bm25
+numpy
+redis
+requests
+streamlit
